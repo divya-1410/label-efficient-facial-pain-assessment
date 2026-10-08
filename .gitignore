@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/
+datasets/
+*.zip
+
+# Experiment outputs
+checkpoints/
+*.pth
+*.pt
+*.h5
+*.keras
+
+# Local files
+.env
+.DS_Store
+Thumbs.db
+
+# Generated results
+*.log
